@@ -22,7 +22,18 @@ _stream copy_{.ct}
 ``` sh
 ffmpeg -i downloaded_file.aa -codec copy output.mp3
 ```
+## aax decoding
 
+1. Download the chrome driver from [Downloads - ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+2. Move the `chromedriver` executable to `/usr/local/bin`
+3. Clone [nAudible-NG/audible-activator][GINAARYADAFASUHGCINTPIIR]
+4. Run it:
+   ``` sh
+   ./audible-activator.py --username=xxx --password=xxx
+   ```
+5. 
 
 -----------------------------------------
 2018-02-13 06:54:05
+
+[GINAARYADAFASUHGCINTPIIR]: https://github.com/inAudible-NG/audible-activator
