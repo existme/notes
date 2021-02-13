@@ -25,13 +25,24 @@ ffmpeg -i downloaded_file.aa -codec copy output.mp3
 ## aax decoding
 
 1. Download the chrome driver from [Downloads - ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+    1. You should download the version which matches to the version `/usr/bin/google-chrome`
+    2. You might need to upgrade your `urllib3` using:
+      ``` 
+      python -m pip install --upgrade urllib3
+      ```
 2. Move the `chromedriver` executable to `/usr/local/bin`
 3. Clone [nAudible-NG/audible-activator][GINAARYADAFASUHGCINTPIIR]
+    ``` 
+    pip install --user requests
+    pip install --user selenium
+    ```
 4. Run it:
    ``` sh
    ./audible-activator.py --username=xxx --password=xxx
    ```
-5. 
+5. Then you will be prompted to press enter, after pressing enter you will get `activation_bytes`
+
+
 
 -----------------------------------------
 2018-02-13 06:54:05
