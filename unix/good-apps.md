@@ -88,6 +88,7 @@ See what's available at https://medium.com/@likid.geimfari/the-list-of-interesti
 
    1. Krita
    2. Gimp
+   3. [Photopea | Online Photo Editor][POPE] https://www.photopea.com/
 
 # On screen paint
 
@@ -284,3 +285,4 @@ Some nice websites to download MIDI files:
 [HCICM]: https://crates.io/crates/mdcat
 [GLMCFM]: https://github.com/lunaryorn/mdcat
 [QTUDC]: http://qalculate.github.io/downloads.html
+[POPE]: https://www.photopea.com/
