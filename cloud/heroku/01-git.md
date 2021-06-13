@@ -3,6 +3,7 @@ _Written by: Reza Shams Amiri_
 
 Heroku uses the `main` branch for uploading to the dyno.
 
+__{.ct}
 ``` sh
 ```
 * * *
