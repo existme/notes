@@ -9,7 +9,7 @@ See:
 sudo add-apt-repository ppa:mikhailnov/pulseeffects
 sudo apt install pulseeffects
 ```
-
+![pulseeffects.png](/img/install/pulseeffects.png)
 * * *
 Creation date: _2021-08-02_
 
