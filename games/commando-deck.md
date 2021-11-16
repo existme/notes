@@ -2,11 +2,11 @@ _Written by: Reza Shams Amiri_
 # Commando DECK
 
 **Mafia:**
-1. Godfather:
+1. **Godfather**:
    Each night can kill a player including one of the mafia members.
-1. Sorcerer: 
+1. **Sorcerer**: 
    Can guess a player role, if correct the person will be out. 
-1. Captor:
+1. **Captor**:
    Can take hostage one player each night, the acts of the player which is taken hostage would be disabled that night
 
 **Citizen:**
