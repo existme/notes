@@ -1,7 +1,7 @@
 # install issue ssh git 128
 
 
-## Sympton
+## Symptom
 ``` sh
 $ nvm use 14.15.0
 Now using node v14.15.0 (npm v8.6.0)
