@@ -13,5 +13,7 @@ To re-enable caching the credentials use
 git config --global --unset credential.helper
 ```
 *After removing the credentials you need to reenable it to not be asked everytime for your credentials*
+
+todo: different kinds of credential helpers
 * * *
 Creation date: _2021-06-13_
