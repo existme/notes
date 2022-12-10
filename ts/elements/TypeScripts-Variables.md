@@ -1,7 +1,7 @@
 _Written by: Reza Shams Amiri_
-# 01 TypeScripts Variables
+# 01 Variable Declaration (See also [ts-docs][TDVD])
 
-Start your content here...
+
 
 ``` sh
 code placeholder
@@ -9,3 +9,5 @@ code placeholder
 
 * * *
 Creation date: _2022-12-10_
+
+[TDVD]: https://www.typescriptlang.org/docs/handbook/variable-declarations.html
